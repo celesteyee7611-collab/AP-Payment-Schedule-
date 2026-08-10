@@ -1,0 +1,8 @@
+{
+  "name": "Remix Boon Huat Hardware - AP Payment Schedule Assistant",
+  "description": "AI-powered Accounts Payable assistant for Boon Huat Hardware \u0026 Supplies to analyze supplier invoices, calculate priority levels, and generate payment recommendations with strict human review controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
